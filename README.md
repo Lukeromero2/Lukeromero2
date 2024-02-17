@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Cybersecurity Monitroing & Detection Lab](https://github.com/Lukeromero2/Monitoring-DetectionLab/blob/main/README.md)
+  - [Cybersecurity Monitoring & Detection Lab](https://github.com/Lukeromero2/Monitoring-DetectionLab/blob/main/README.md)
 
 <h2>📄 Certificates</h2>
 
